@@ -41,7 +41,7 @@ Execute a PowerShell command, locate the corresponding event in Windows Event Vi
 
 **Evidence:** Screenshots of relevant Windows PowerShell events.
 
-📄 **[View Day 01 Lab](./Log%20Analysis.md)**
+📄 **[View Lab](./Log%20Analysis.md)**
 
 ## 📈 Learning Progress
 
