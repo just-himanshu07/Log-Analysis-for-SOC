@@ -1,4 +1,4 @@
-# Day 01 — Introduction to Log Analysis
+# Introduction to Log Analysis
 
 **Domain:** Cybersecurity | Security Operations Center (SOC)  
 **Lab Type:** Hands-on Practical  
@@ -10,10 +10,6 @@
 ## 🎯 Objective
 
 Understand the fundamentals of log analysis, identify common Windows and Linux log sources, and investigate PowerShell activity using Windows Event Viewer.
-
-## 🎥 Video Tutorial
-
-[![Watch the Log Analysis Tutorial](https://img.youtube.com/vi/kzEutcdJVMw/maxresdefault.jpg)](https://youtu.be/kzEutcdJVMw)
 
 ---
 
@@ -230,14 +226,6 @@ The exercise reinforces three core SOC skills:
 
 **Key Takeaway:** A log entry provides evidence of recorded activity, but context and correlation with other events are necessary to determine whether the activity is malicious.
 
-## 📤 Submission Requirements
-
-Submit the following:
-
-- [ ] Screenshot of the relevant PowerShell event in Event Viewer.
-- [ ] Event ID and timestamp.
-- [ ] Brief explanation of the recorded activity.
-- [ ] One or two sentences describing its security relevance.
 
 ---
 
